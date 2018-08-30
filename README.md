@@ -6,3 +6,5 @@ changes from github branch
 This will be a change that confilcts
 with whatever is on the remote side. 
 This was eddited locally.
+## Purpose
+This file is just a readme file. and merged
