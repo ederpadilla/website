@@ -9,3 +9,4 @@ This was eddited locally.
 ## Purpose
 The purpose of this file is to provide examples 
 of how to use Git and Github together.
+To get started with this project, just `clone` this repository.
